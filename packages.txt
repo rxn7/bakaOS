@@ -9,3 +9,10 @@ pavucontrol
 alacritty
 ttf-iosevka-nerd
 nerd-fonts-overpass
+rofi
+mpv
+sxiv
+nitrogen
+dunst
+polkit-dumb-agent-git
+nvim-packer-git
