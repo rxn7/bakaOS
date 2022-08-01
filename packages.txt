@@ -1,0 +1,11 @@
+stow
+i3-gaps
+brave-bin
+spotify
+pcmanfm
+neovim
+ranger
+pavucontrol
+alacritty
+ttf-iosevka-nerd
+nerd-fonts-overpass
